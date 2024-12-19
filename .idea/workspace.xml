@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f10370f4-9fd3-4faf-8fbc-0f74295fd896" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/common/database/tables/TaskTable.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/common/database/tables/UserTable.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/database/Rdb.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/CountDown.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/Login.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/viewmodel/TaskData.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/viewmodel/UserData.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppScope/app.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppScope/resources/base/element/string.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppScope/resources/base/media/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/build-profile.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/hvigorfile.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/oh-package.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/common/Constants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/common/GlobalBuilderContext.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/common/Logger.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/entryability/EntryAbility.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/digitalscrollanimation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/digitalscrollanimation/common/CommonConstants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/digitalscrollanimation/view/DigitalScrollDetail.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/digitalscrollanimation/view/DigitalScrollExample.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageCardsSwiper/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageCardsSwiper/common/Constants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageCardsSwiper/model/CardModel.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageCardsSwiper/model/CardViewModel.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageCardsSwiper/view/CardSwiper.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageExpandTitle/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageExpandTitle/common/Constants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageExpandTitle/model/DataSource.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageExpandTitle/model/MemoInfo.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageExpandTitle/model/MockData.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageExpandTitle/view/MemoItem.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageExpandTitle/view/PageExpandTitle.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageMarqueeView/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageMarqueeView/common/FunctionDescription.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageMarqueeView/entryability/EntryAbility.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageMarqueeView/model/Constants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageMarqueeView/model/DataSource.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageMarqueeView/model/DataType.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageMarqueeView/model/MockData.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageMarqueeView/view/Marquee.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pagePaintComponent/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pagePaintComponent/common/Constants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pagePaintComponent/view/PagePaintComponent.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageStatusBarChange/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageStatusBarChange/common/constants/CommonConstants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageStatusBarChange/view/PageStatusBarChange.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageVibrateEffect/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageVibrateEffect/common/Constants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageVibrateEffect/view/PageVibrateEffect.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageWaterRipples/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageWaterRipples/common/CommonConstants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageWaterRipples/view/PageWaterRipples.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pagelistslidetohistory/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pagelistslidetohistory/common/Constants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pagelistslidetohistory/model/BasicDataSource.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pagelistslidetohistory/view/ImageText.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pagelistslidetohistory/view/OneMoment.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pagelistslidetohistory/view/PageListSlideToHistory.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageturninganimation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageturninganimation/common/Constants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/pageturninganimation/view/PageTurningAnimation.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/searchComponent/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/searchComponent/common/Constants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/searchComponent/view/SearchComponent.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/sidebarAnimation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/sidebarAnimation/constants/SideBarAnimationViewConstants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/sidebarAnimation/model/CommonLazySource.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/sidebarAnimation/view/SideBarAnimation.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/sidebarAnimation/view/SideBarContentView.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/sidebarAnimation/view/SideBarView.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/swiperComponent/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/swiperComponent/common/Constants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/swiperComponent/view/SwiperComponent.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/swipersmoothvariation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/swipersmoothvariation/common/CommonConstants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/swipersmoothvariation/view/SwiperSmoothVariation.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/voiceRecordDynamicEffect/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/voiceRecordDynamicEffect/common/CommonConstants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/voiceRecordDynamicEffect/utils/AudioRecorder.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/voiceRecordDynamicEffect/view/VoiceRecordDynamic.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/votingcomponent/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/votingcomponent/constants/Constants.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/feature/votingcomponent/pages/VotingComponent.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/pages/Index.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/viewmodel/NavDestinationItem.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/viewmodel/SwiperData.ets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/module.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/element/color.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/element/float.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/element/integer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/element/string.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/button_customer_service_line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/button_scan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/button_setting_configuration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/car_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/car_icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/expand_title.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/happly.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_comm_pic1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_comm_pic10.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_comm_pic11.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_comm_pic2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_comm_pic3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_comm_pic4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_comm_pic5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_comm_pic6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_comm_pic7.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_comm_pic8.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_comm_pic9.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_public_add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_public_back.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_public_backtotop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_public_delete.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_public_more.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_public_music_filled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_screenshot_line.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_shares.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_thumbSup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/ic_voting_component_avatars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/icon_home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/is_public_add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/layered_image.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/login_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/page_turning.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/playback_recording.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/relaxation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/shopping.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/startIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/taxi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/voice_record_dynamic_effect_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/voice_record_dynamic_effect_avatar_friend.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/voice_record_dynamic_effect_avatar_own.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/voice_record_dynamic_effect_emoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/voice_record_dynamic_effect_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/voice_record_dynamic_effect_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/voice_record_dynamic_effect_qmz0nuwq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/media/voice_record_dynamic_effect_volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/profile/main_pages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/en_US/element/string.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/rawfile/mockFriendMomentOneModelData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/zh_CN/element/string.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvigor/hvigor-config.json5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Change.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Drag.en.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Drag.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/ExpandTitle.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Flag.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Hide.en.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Hide.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/ListSlideToHistory.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Marquee.en.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Marquee.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Move.en.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Move.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/PaintComponent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Preview.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Progress.en.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Progress.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Scroll.en.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Scroll.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Swiper.en.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Swiper.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/VibrateEffect.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Voice.en.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Voice.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Vote.en.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Vote.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Water.en.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/Water.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/WaterRipples.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/animation.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/carousel.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/digital_scroll.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/page_turning.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/search.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/sidebarAnimation.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/voice_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/voice_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/voice_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/device/voting_component.gif" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ArkTS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HiLogStateProjectLevelPreference">
+    <panelStates>
+      <hilogPanelState>
+        <option name="logPanelType" value="ONLINE" />
+        <option name="processName" value="com.example.todo" />
+        <option name="searchFilterContent" value="this.account:" />
+      </hilogPanelState>
+    </panelStates>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2qI2wxRU6rtd9u120MEe452pphJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "127.0.0.1:5555": "5371222751734569404771",
+    "127.0.0.1:5557": "5371222751734343537965",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.entry.executor": "Run",
+    "MODULE_HAP_TIME": "{\"127.0.0.1:5557entry\":\"2024-12-16T10:02:28.597027700Z\",\"127.0.0.1:5555entry\":\"2024-12-19T00:50:04.910899300Z\"}",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ace.nodejs.version": "18.20.1",
+    "last_opened_file_path": "C:/Users/dell/Harmony/source/Rdb",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.entry">
+    <configuration name="entry" type="HotReLoadTask" factoryName="Hot Reload">
+      <MODULE_NAME />
+      <REINSTALL_APPLICATION>true</REINSTALL_APPLICATION>
+      <ENVIRONMENT_VARIABLES>[]</ENVIRONMENT_VARIABLES>
+      <DEBUG_LINE_ENABLE_DATA>false</DEBUG_LINE_ENABLE_DATA>
+      <AUTO_DEPENDENCIES_DATA>true</AUTO_DEPENDENCIES_DATA>
+      <INSTALL_FLAGS_CONFIG_KEY />
+      <LAUNCH_FLAGS_CONFIG_KEY />
+      <LAUNCH_ABILITY_CONFIG_TYPE>Default Ability</LAUNCH_ABILITY_CONFIG_TYPE>
+      <LAUNCH_ABILITY_CONFIG_VALUE />
+      <SYMBOL_DIRS>[]</SYMBOL_DIRS>
+      <DEBUGGER_TYPE>Detect Automatically</DEBUGGER_TYPE>
+      <MULTI_HAP_MODULE_DATA>[]</MULTI_HAP_MODULE_DATA>
+      <SHOW_STATIC_VARIABLES>true</SHOW_STATIC_VARIABLES>
+      <LOGGING_TARGET_CHANNELS>lldb process:gdb-remote packets</LOGGING_TARGET_CHANNELS>
+      <USER_POST_ATTACH_COMMANDS>[]</USER_POST_ATTACH_COMMANDS>
+      <USER_STARTUP_COMMANDS>[]</USER_STARTUP_COMMANDS>
+      <ETS_SOURCE_PARIS>[]</ETS_SOURCE_PARIS>
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <ASAN_ENABLE_DATA>false</ASAN_ENABLE_DATA>
+      <TSAN_ENABLE_DATA>false</TSAN_ENABLE_DATA>
+      <ERROR_INFO_ENHANCE_ENABLE_DATA>false</ERROR_INFO_ENHANCE_ENABLE_DATA>
+      <MULTI_THREAD_CHECK_SELECTED_DATA>false</MULTI_THREAD_CHECK_SELECTED_DATA>
+      <HOT_RELOAD_MODULE_NAME>entry</HOT_RELOAD_MODULE_NAME>
+      <method v="2">
+        <option name="Build.Hvigor.HotReloadBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="entry" type="OhosDebugTask" factoryName="OpenHarmony App">
+      <MODULE_NAME>entry</MODULE_NAME>
+      <REINSTALL_APPLICATION>true</REINSTALL_APPLICATION>
+      <ENVIRONMENT_VARIABLES>[]</ENVIRONMENT_VARIABLES>
+      <DEBUG_LINE_ENABLE_DATA>false</DEBUG_LINE_ENABLE_DATA>
+      <AUTO_DEPENDENCIES_DATA>true</AUTO_DEPENDENCIES_DATA>
+      <INSTALL_FLAGS_CONFIG_KEY />
+      <LAUNCH_FLAGS_CONFIG_KEY />
+      <LAUNCH_ABILITY_CONFIG_TYPE>Default Ability</LAUNCH_ABILITY_CONFIG_TYPE>
+      <LAUNCH_ABILITY_CONFIG_VALUE />
+      <SYMBOL_DIRS>[]</SYMBOL_DIRS>
+      <DEBUGGER_TYPE>Detect Automatically</DEBUGGER_TYPE>
+      <MULTI_HAP_MODULE_DATA>[]</MULTI_HAP_MODULE_DATA>
+      <SHOW_STATIC_VARIABLES>true</SHOW_STATIC_VARIABLES>
+      <LOGGING_TARGET_CHANNELS>lldb process:gdb-remote packets</LOGGING_TARGET_CHANNELS>
+      <USER_POST_ATTACH_COMMANDS>[]</USER_POST_ATTACH_COMMANDS>
+      <USER_STARTUP_COMMANDS>[]</USER_STARTUP_COMMANDS>
+      <ETS_SOURCE_PARIS>[]</ETS_SOURCE_PARIS>
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <ASAN_ENABLE_DATA>false</ASAN_ENABLE_DATA>
+      <TSAN_ENABLE_DATA>false</TSAN_ENABLE_DATA>
+      <ERROR_INFO_ENHANCE_ENABLE_DATA>false</ERROR_INFO_ENHANCE_ENABLE_DATA>
+      <MULTI_THREAD_CHECK_SELECTED_DATA>false</MULTI_THREAD_CHECK_SELECTED_DATA>
+      <method v="2">
+        <option name="Build.Hvigor.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用级" UseSingleDictionary="true" transferred="true" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="JavaScript">
+          <url>file://$PROJECT_DIR$/entry/src/main/ets/pages/Index.ets</url>
+          <line>163</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
