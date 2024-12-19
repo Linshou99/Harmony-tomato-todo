@@ -1,0 +1,55 @@
+{
+  "entry\\src\\main\\ets\\entryability\\EntryAbility.ets": [
+    "If"
+  ],
+  "entry\\src\\main\\ets\\pages\\Index.ets": [
+    "CustomDialogController",
+    "Column",
+    "Row",
+    "Text",
+    "Button",
+    "List",
+    "ForEach",
+    "ListItem",
+    "RelativeContainer",
+    "Image",
+    "AlertDialog",
+    "If"
+  ],
+  "entry\\src\\main\\ets\\common\\database\\tables\\TaskTable.ets": [
+    "If"
+  ],
+  "entry\\src\\main\\ets\\common\\database\\Rdb.ets": [
+    "If"
+  ],
+  "entry\\src\\main\\ets\\pages\\CountDown.ets": [
+    "AlertDialog",
+    "Column",
+    "Text",
+    "Button",
+    "Progress",
+    "If"
+  ],
+  "entry\\src\\main\\ets\\pages\\Login.ets": [
+    "Column",
+    "Row",
+    "Text",
+    "Image",
+    "TextInput",
+    "Button",
+    "If"
+  ],
+  "entry\\src\\main\\ets\\common\\database\\tables\\UserTable.ets": [
+    "If"
+  ],
+  "entry\\src\\main\\ets\\view\\DialogComponent.ets": [
+    "CustomDialogController",
+    "Column",
+    "TextInput",
+    "TextPicker",
+    "Divider",
+    "RowSplit",
+    "Button",
+    "If"
+  ]
+}
