@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "Todo"
+    },
+    {
+      "name": "ask_for_task_name",
+      "value": "请输入待办任务名称："
+    }
+  ]
+}
